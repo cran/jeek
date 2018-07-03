@@ -1,1 +1,4 @@
-jeekDemo   A demo for jeek algorithm
+jeek   A brief demo for the jeek algorithm including data from cancer, simulated gaussian and word count
+cancer   A more detailed demo for jeek algorithm with cancer data
+synthetic  A more detailed demo for jeek algorithm with synthetic gaussian data
+word  A more detailed demo for jeek algorithm with word count data
