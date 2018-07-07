@@ -43,7 +43,9 @@
 #' result = jeek(X = exampleData, 0.3, covType = "cov", parallel = TRUE)
 #' plot.jeek(result)
 #' }
-#' @export
+#' @export plot.jeek
+#' @method plot jeek
+#' @S3method plot jeek
 #' @import igraph
 #' @importFrom grDevices rainbow
 #' @importFrom graphics legend
